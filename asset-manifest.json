@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/realestateapp/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/realestateapp/static/js/main.c995bca5.chunk.js",
-    "main.js.map": "/realestateapp/static/js/main.c995bca5.chunk.js.map",
+    "main.js": "/realestateapp/static/js/main.247fea33.chunk.js",
+    "main.js.map": "/realestateapp/static/js/main.247fea33.chunk.js.map",
     "runtime-main.js": "/realestateapp/static/js/runtime-main.30131a70.js",
     "runtime-main.js.map": "/realestateapp/static/js/runtime-main.30131a70.js.map",
     "static/css/2.1a02f21c.chunk.css": "/realestateapp/static/css/2.1a02f21c.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.6732d4fc.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c995bca5.chunk.js"
+    "static/js/main.247fea33.chunk.js"
   ]
 }
